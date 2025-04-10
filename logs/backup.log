@@ -1,0 +1,294 @@
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250303_000004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-03 00:00:09.606530
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250303_000004-1glam_local-site_config_backup.json 239.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250303_000004-1glam_local-database.sql.gz 844.2KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250303_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-03 18:00:07.246168
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250303_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250303_180003-1glam_local-database.sql.gz 856.2KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250304_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-04 12:00:08.150986
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250304_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250304_120003-1glam_local-database.sql.gz 866.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250305_120002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-05 12:00:05.251096
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250305_120002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250305_120002-1glam_local-database.sql.gz 872.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250307_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-07 00:00:07.604629
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250307_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250307_000003-1glam_local-database.sql.gz 908.0KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250308_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-08 00:00:06.335050
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250308_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250308_000003-1glam_local-database.sql.gz 917.5KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250308_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-08 18:00:06.195786
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250308_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250308_180003-1glam_local-database.sql.gz 940.4KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250310_000006-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-10 00:00:18.021871
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250310_000006-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250310_000006-1glam_local-database.sql.gz 942.3KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250311_000002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-11 00:00:05.648192
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250311_000002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250311_000002-1glam_local-database.sql.gz 946.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250312_120002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-12 12:00:05.293305
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250312_120002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250312_120002-1glam_local-database.sql.gz 957.6KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250313_120002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-13 12:00:06.731598
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250313_120002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250313_120002-1glam_local-database.sql.gz 963.0KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250314_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-14 18:00:12.066759
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250314_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250314_180003-1glam_local-database.sql.gz 946.3KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250315_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-15 00:00:08.237760
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250315_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250315_000003-1glam_local-database.sql.gz 946.6KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250316_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-16 12:00:10.923294
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250316_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250316_120003-1glam_local-database.sql.gz 946.6KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250316_180002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-16 18:00:05.483129
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250316_180002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250316_180002-1glam_local-database.sql.gz 947.9KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250317_180014-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-17 18:00:41.972336
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250317_180014-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250317_180014-1glam_local-database.sql.gz 947.9KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250318_000002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-18 00:00:07.659399
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250318_000002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250318_000002-1glam_local-database.sql.gz 937.6KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250318_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-18 18:00:08.818772
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250318_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250318_180003-1glam_local-database.sql.gz 961.5KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250319_180002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-19 18:00:06.295869
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250319_180002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250319_180002-1glam_local-database.sql.gz 969.9KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250320_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-20 18:00:07.813685
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250320_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250320_180003-1glam_local-database.sql.gz 969.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250321_000004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-21 00:00:09.008466
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250321_000004-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250321_000004-1glam_local-database.sql.gz 972.0KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250321_180002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-21 18:00:05.738035
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250321_180002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250321_180002-1glam_local-database.sql.gz 949.5KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250322_000004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-22 00:00:10.763976
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250322_000004-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250322_000004-1glam_local-database.sql.gz 951.4KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250323_120005-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-23 12:00:12.076090
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250323_120005-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250323_120005-1glam_local-database.sql.gz 945.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250325_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-25 12:00:09.166242
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250325_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250325_120003-1glam_local-database.sql.gz 945.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250325_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-25 18:00:07.249561
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250325_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250325_180003-1glam_local-database.sql.gz 945.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250327_000005-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-27 00:00:15.493773
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250327_000005-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250327_000005-1glam_local-database.sql.gz 926.9KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250327_120004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-27 12:00:07.859800
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250327_120004-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250327_120004-1glam_local-database.sql.gz 918.7KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250327_180004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-27 18:00:09.116275
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250327_180004-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250327_180004-1glam_local-database.sql.gz 918.7KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250328_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-28 00:00:06.070365
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250328_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250328_000003-1glam_local-database.sql.gz 918.7KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250328_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-28 12:00:07.247731
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250328_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250328_120003-1glam_local-database.sql.gz 937.7KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250331_120002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-03-31 12:00:06.893095
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250331_120002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250331_120002-1glam_local-database.sql.gz 937.7KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250401_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-01 00:00:08.379947
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250401_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250401_000003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250401_120004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-01 12:00:10.938095
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250401_120004-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250401_120004-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250402_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-02 00:00:08.620403
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250402_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250402_000003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250403_000002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-03 00:00:07.243352
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250403_000002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250403_000002-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250405_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-05 00:00:07.440104
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_000003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250405_060003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-05 06:00:06.445008
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_060003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_060003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250405_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-05 12:00:06.277308
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_120003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250405_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-05 18:00:06.432701
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250405_180003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250406_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-06 00:00:07.121438
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250406_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250406_000003-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250406_060002-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-06 06:00:06.027214
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250406_060002-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250406_060002-1glam_local-database.sql.gz 933.1KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250408_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-08 12:00:09.847342
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250408_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250408_120003-1glam_local-database.sql.gz 898.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250408_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-08 18:00:07.860071
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250408_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250408_180003-1glam_local-database.sql.gz 898.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250409_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-09 00:00:07.612795
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250409_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250409_000003-1glam_local-database.sql.gz 902.3KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250409_120004-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-09 12:00:09.323433
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250409_120004-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250409_120004-1glam_local-database.sql.gz 900.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250410_000003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-10 00:00:08.589108
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250410_000003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250410_000003-1glam_local-database.sql.gz 900.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250410_120003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-10 12:00:07.696629
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250410_120003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250410_120003-1glam_local-database.sql.gz 900.8KiB
+Backup for Site 1glam.local has been successfully completed
+set -o pipefail; /usr/bin/mariadb-dump --user=_e0893477bbbe174b --host=127.0.0.1 --port=3306 --password=********** --single-transaction --quick --lock-tables=false _e0893477bbbe174b | /usr/bin/gzip >> ./1glam.local/private/backups/20250410_180003-1glam_local-database.sql.gz
+
+Backup Summary for 1glam.local at 2025-04-10 18:00:06.261097
+Config  : /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250410_180003-1glam_local-site_config_backup.json 259.0B
+Database: /home/roshan-singh/PycharmProjects/1glamcrm/frappe-bench/sites/1glam.local/private/backups/20250410_180003-1glam_local-database.sql.gz 900.8KiB
+Backup for Site 1glam.local has been successfully completed
